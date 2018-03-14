@@ -498,7 +498,7 @@ h1, h2, h3, h4, h5, h6, figure {
     margin-top: 0;
   }
 }
-#fh5co-featured-menu .fh5co-item h3, #fh5co-gallery .fh5co-item h3, #fh5co-reservation-form .fh5co-item h3 {
+#fh5co-featured-menu .fh5co-item h3, #fh5co-gallery .fh5co-item h3, #fh5co-reservation-form .fh5co-item h3, #fh5co-gallery .fh5co-gallery_item h3{
   margin-bottom: 0px;
   color: #fff;
 }

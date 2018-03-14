@@ -569,6 +569,10 @@ h1, h2, h3, h4, h5, h6, figure {
 		padding-left: 10px;
 		padding-right: 10px;
 		overflow: hidden;
+		h3 {
+			margin-bottom: 0px;
+			color: $brand-white;
+		}
 	}
 	.fh5co-bg-img, .fh5co-gallery_big {
 		float: left;
