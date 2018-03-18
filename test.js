@@ -7,12 +7,21 @@ var fs = require("fs");
 
 var urlencodedParser = bodyParser.urlencoded({extended: false});
 
+<<<<<<< HEAD
 app.use(express.static(__dirname +'/front-end/login&signup/'));
 app.use(cookieParser());
 
 app.get('/front-end/login&signup/index.html',function(request, response){
     console.log("Cookies: " + util.inspect(req.cookies));
 	response.sendFile(__dirname + "/front-end/login&signup/" + 'index.html');
+=======
+app.use(express.static(__dirname +'/front-end/McBand/'));
+app.use(cookieParser());
+
+app.get('/front-end/McBand/index.html',function(request, response){
+    console.log("Cookies: " + util.inspect(req.cookies));
+	response.sendFile(__dirname + "/front-end/McBand/" + 'index.html');
+>>>>>>> master
 })
 
 app.post('/register_process', urlencodedParser, function(req,res){
