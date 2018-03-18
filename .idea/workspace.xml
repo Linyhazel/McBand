@@ -3,171 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0437e731-6623-4405-a59b-2adbefc3bc0e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/images/banner.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/images/tick.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/js/easyResponsiveTabs.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/login&amp;signup/w3layouts-License.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/README.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/_gitattributes" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/audios/Ed_Sheeran_Perfect_Piano_Cover.mp3" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/community.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/animate.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap-datetimepicker.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/flexslider.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/icomoon.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/style.css.map" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/event.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/Read Me.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/demo-files/demo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/demo-files/demo.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/demo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/fonts/icomoon.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/fonts/icomoon.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/fonts/icomoon.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/fonts/icomoon.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/selection.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/19.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/Call Me By Your Name.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/Coco.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/Divide.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/Havana.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/Love In The Future.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/Perfect Duet.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/The Greatest Showman.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/This Is Me.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/bg.mp4" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/broken_noise.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/broken_noise_@2X.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/clean_bandit.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/coldplay.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/fall_out_boy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/fifth_harmony.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/hero_1.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/imagine_dragons.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/img_1.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/img_sm_1.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/loader.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/maroon_5.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/one_direction.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/perfect_sheet.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/person_1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/the_beatles-wallpaper-800x600.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/bootstrap-datetimepicker.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/jquery.easing.1.3.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/jquery.flexslider-min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/jquery.stellar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/jquery.waypoints.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/modernizr-2.6.2.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/moment.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/respond.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/js/zoomerang.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/musicinfo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_DS_Store" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-compass.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-mincer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-sprockets.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_alerts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_badges.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_breadcrumbs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_button-groups.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_buttons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_carousel.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_close.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_code.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_component-animations.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_dropdowns.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_glyphicons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_grid.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_input-groups.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_jumbotron.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_labels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_list-group.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_media.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_mixins.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_modals.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_navbar.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_navs.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_normalize.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_pager.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_pagination.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_panels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_popovers.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_print.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_progress-bars.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_responsive-embed.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_responsive-utilities.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_scaffolding.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_tables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_theme.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_thumbnails.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_tooltip.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_type.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_utilities.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_variables.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_wells.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_alerts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_background-variant.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_border-radius.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_buttons.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_center-block.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_clearfix.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_forms.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_gradients.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_grid-framework.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_grid.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_hide-text.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_image.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_labels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_list-group.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_nav-divider.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_opacity.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_pagination.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_panels.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_progress-bar.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_reset-filter.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_reset-text.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_resize.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_size.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_tab-focus.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_table-row.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_text-overflow.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/style.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/McBand/community.html" afterPath="$PROJECT_DIR$/front-end/McBand/community.html" />
+      <change beforePath="$PROJECT_DIR$/front-end/McBand/css/bootstrap.css" afterPath="$PROJECT_DIR$/front-end/McBand/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/front-end/McBand/musiclibrary.html" afterPath="$PROJECT_DIR$/front-end/McBand/musiclibrary.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -180,7 +18,72 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="musiclibrary.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/front-end/McBand/musiclibrary.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="310" column="10" lean-forward="true" selection-start-line="299" selection-start-column="4" selection-end-line="310" selection-end-column="10" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/McBand/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1429">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/McBand/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="1952" column="20" lean-forward="false" selection-start-line="1952" selection-start-column="20" selection-end-line="1952" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="community.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/McBand/community.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-676">
+              <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="icomoon.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/McBand/css/icomoon.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="767" column="14" lean-forward="false" selection-start-line="767" selection-start-column="10" selection-end-line="767" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/McBand/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="131" column="67" lean-forward="false" selection-start-line="131" selection-start-column="67" selection-end-line="131" selection-end-column="87" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -192,6 +95,7 @@
       <find>container</find>
       <find>drop_zone</find>
       <find>modal</find>
+      <find>user</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,6 +116,9 @@
         <option value="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/front-end/tasty-master/css/style.css" />
         <option value="$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html" />
+        <option value="$PROJECT_DIR$/front-end/McBand/musiclibrary.html" />
+        <option value="$PROJECT_DIR$/front-end/McBand/community.html" />
+        <option value="$PROJECT_DIR$/front-end/McBand/css/bootstrap.css" />
       </list>
     </option>
   </component>
@@ -221,11 +128,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="177" />
-    <option name="y" value="50" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1680" />
-    <option name="height" value="945" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -251,6 +156,24 @@
               <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
               <item name="McBand" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="McBand" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="McBand" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="McBand" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="McBand" type="462c0819:PsiDirectoryNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="McBand" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +186,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
-    <property name="SearchEverywhereHistoryKey" value="fh5co-item-wrap&#9;null&#9;null&#10;fh5co-heading&#9;null&#9;null&#10;form-wrap&#9;null&#9;null&#10;modal-content&#9;null&#9;null&#10;modal&#9;null&#9;null&#10;button&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/sass/bootstrap/mixins/_buttons.scss&#10;banner&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/login&amp;signup/images/banner.jpg&#10;fh5co-started&#9;null&#9;null&#10;tasty&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/tasty/__MACOSX/__tasty&#10;zoomout&#9;null&#9;null&#10;zoomin&#9;null&#9;null&#10;close&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/sass/bootstrap/_close.scss&#10;animate&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/css/animate.css&#10;form-group&#9;null&#9;null&#10;fh5co-header&#9;null&#9;null&#10;col-md-pull-0&#9;null&#9;null&#10;col-md-6&#9;null&#9;null&#10;col-md-pull-6&#9;null&#9;null&#10;col-sm-push-6&#9;null&#9;null&#10;middle&#9;null&#9;null&#10;midd;e&#9;null&#9;null&#10;submit&#9;null&#9;null&#10;btn-lg&#9;null&#9;null&#10;btn-outline&#9;null&#9;null&#10;btn&#9;null&#9;null&#10;btn-primary&#9;null&#9;null&#10;col-md-12&#9;null&#9;null&#10;fh5co-item&#9;null&#9;null&#10;img-responsive&#9;null&#9;null&#10;animate-box&#9;null&#9;null&#10;fh5co-cover&#9;null&#9;null&#10;row&#9;null&#9;null&#10;col-md-&#9;null&#9;null&#10;fh5co-gallery_item&#9;null&#9;null&#10;h3&#9;null&#9;null&#10;col-sm-6&#9;null&#9;null&#10;form-control&#9;null&#9;null&#10;col-md-push-6&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="container&#9;null&#9;null&#10;fh5co-item-wrap&#9;null&#9;null&#10;fh5co-heading&#9;null&#9;null&#10;form-wrap&#9;null&#9;null&#10;modal-content&#9;null&#9;null&#10;modal&#9;null&#9;null&#10;button&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/sass/bootstrap/mixins/_buttons.scss&#10;banner&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/login&amp;signup/images/banner.jpg&#10;fh5co-started&#9;null&#9;null&#10;tasty&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/tasty/__MACOSX/__tasty&#10;zoomout&#9;null&#9;null&#10;zoomin&#9;null&#9;null&#10;close&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/sass/bootstrap/_close.scss&#10;animate&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/css/animate.css&#10;form-group&#9;null&#9;null&#10;fh5co-header&#9;null&#9;null&#10;col-md-pull-0&#9;null&#9;null&#10;col-md-6&#9;null&#9;null&#10;col-md-pull-6&#9;null&#9;null&#10;col-sm-push-6&#9;null&#9;null&#10;middle&#9;null&#9;null&#10;midd;e&#9;null&#9;null&#10;submit&#9;null&#9;null&#10;btn-lg&#9;null&#9;null&#10;btn-outline&#9;null&#9;null&#10;btn&#9;null&#9;null&#10;btn-primary&#9;null&#9;null&#10;col-md-12&#9;null&#9;null&#10;fh5co-item&#9;null&#9;null&#10;img-responsive&#9;null&#9;null&#10;animate-box&#9;null&#9;null&#10;fh5co-cover&#9;null&#9;null&#10;row&#9;null&#9;null&#10;col-md-&#9;null&#9;null&#10;fh5co-gallery_item&#9;null&#9;null&#10;h3&#9;null&#9;null&#10;col-sm-6&#9;null&#9;null&#10;form-control&#9;null&#9;null&#10;col-md-push-6&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -315,17 +238,18 @@
       <workItem from="1521126348830" duration="909000" />
       <workItem from="1521203166007" duration="7675000" />
       <workItem from="1521278072951" duration="6307000" />
-      <workItem from="1521359303732" duration="11101000" />
+      <workItem from="1521359303732" duration="14490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49683000" />
+    <option name="totallyTimeSpent" value="53072000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="177" y="50" width="1680" height="945" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15952381" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15952381" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -374,51 +298,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/front-end/login&amp;signup/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="6" column="13835" lean-forward="false" selection-start-line="6" selection-start-column="13835" selection-end-line="6" selection-end-column="13835" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="512" column="24" lean-forward="true" selection-start-line="512" selection-start-column="24" selection-end-line="512" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="1741" column="1" lean-forward="false" selection-start-line="1741" selection-start-column="1" selection-end-line="1741" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/js/zoomerang.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___close.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -728,6 +607,58 @@
         <state relative-caret-position="237">
           <caret line="225" column="97" lean-forward="false" selection-start-line="225" selection-start-column="97" selection-end-line="225" selection-end-column="97" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/McBand/css/icomoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="767" column="14" lean-forward="false" selection-start-line="767" selection-start-column="10" selection-end-line="767" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/McBand/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="131" column="67" lean-forward="false" selection-start-line="131" selection-start-column="67" selection-end-line="131" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/McBand/community.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-676">
+          <caret line="180" column="0" lean-forward="false" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/McBand/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1429">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/McBand/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="1952" column="20" lean-forward="false" selection-start-line="1952" selection-start-column="20" selection-end-line="1952" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/McBand/musiclibrary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="310" column="10" lean-forward="true" selection-start-line="299" selection-start-column="4" selection-end-line="310" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
