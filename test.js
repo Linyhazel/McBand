@@ -1,13 +1,17 @@
 var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
+var cookieParser = require('cookie-parser');
+var util = require('util');
 var fs = require("fs");
 
 var urlencodedParser = bodyParser.urlencoded({extended: false});
 
 app.use(express.static(__dirname +'/front-end/login&signup/'));
+app.use(cookieParser());
 
 app.get('/front-end/login&signup/index.html',function(request, response){
+    console.log("Cookies: " + util.inspect(req.cookies));
 	response.sendFile(__dirname + "/front-end/login&signup/" + 'index.html');
 })
 
