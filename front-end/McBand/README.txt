@@ -4,4 +4,4 @@ McBand
 AUTHOR:
 Group 16 3100
 
-Please just click home.html to view our websites
+Please just click index.html to view our websites
