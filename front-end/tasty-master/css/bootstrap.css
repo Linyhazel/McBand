@@ -1951,6 +1951,8 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
   padding-left: 15px;
   padding-right: 15px;
 }

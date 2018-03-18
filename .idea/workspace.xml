@@ -2,10 +2,337 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0437e731-6623-4405-a59b-2adbefc3bc0e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/front-end/tasty-master/musicinfo.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/McBand" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/img/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/img/glyphicons-halflings.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/css/animate.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/css/font-awesome-ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/css/font-awesome-ie7.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/css/font-awesome-ie7.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/css/font-awesome-ie7.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/font/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/font/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/font/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/font/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/font/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/bootstrap.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/extras.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/font-awesome-ie7.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_extras.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/font-awesome-ie7.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/bootstrap.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/extras.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/font-awesome-ie7.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_extras.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/font-awesome-ie7.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/fonts/festivo1.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/ico/Android-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/ico/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/ico/favicon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/ico/iPhone-Icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/Bicycle.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/Earth.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/Info2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/Office.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/barbecue.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/blog1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/blog2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/blog3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/blog3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/blog4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/holidays.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/img1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/img2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/img3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/info.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/info3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/info4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide6.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide7.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide8.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/slider/slide9.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/btn_facebook.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/btn_skype.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/btn_twitter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/facebook.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/googleplus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/pinterest.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/social-icons/twitter.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/team/member1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/team/member2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/team/member3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/team/member4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/testimonials/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/testimonials/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/testimonials/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/img/testimonials/Thumbs.db" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/bordered-pulled.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/core.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/fixed-width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/font-awesome.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/icons.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/larger.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/mixins.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/path.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/rotated-flipped.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/spinning.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/stacked.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/less/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_bordered-pulled.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_core.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_fixed-width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_icons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_larger.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_path.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_rotated-flipped.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_spinning.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_stacked.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/assets/scss/font-awesome.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/blog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/js/jquery-1.10.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/js/wow.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/Office-master/team.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/nihao.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/_gitattributes" afterPath="$PROJECT_DIR$/front-end/tasty-master/_gitattributes" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/about.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/about.html" />
       <change beforePath="$PROJECT_DIR$/front-end/tasty-master/community.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/community.html" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/animate.css" afterPath="$PROJECT_DIR$/front-end/tasty-master/css/animate.css" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css" afterPath="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/css/style.css" afterPath="$PROJECT_DIR$/front-end/tasty-master/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/event.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/event.html" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/gallery.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/home.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/home.html" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_1.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_3.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_4.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_5.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_6.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_7.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_8.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/images/gallery_9.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/menu.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/musicinfo.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/musicinfo.html" />
       <change beforePath="$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/reservation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-compass.scss" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-compass.scss" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-mincer.scss" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-mincer.scss" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-sprockets.scss" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-sprockets.scss" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap.scss" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap.scss" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_alerts.scss" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_alerts.scss" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/index.html" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/index.html" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/sass/style.scss" afterPath="$PROJECT_DIR$/front-end/tasty-master/sass/style.scss" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/__tasty" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__README.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__fonts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__images" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__sass" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__animate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__flexslider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__icomoon.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/__bootstrap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/__icomoon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/bootstrap/__glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/bootstrap/__glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/bootstrap/__glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/bootstrap/__glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/bootstrap/__glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/__icomoon" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/__icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/__icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/__icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/__icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/__Read Me.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/__demo-files" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/__demo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/__fonts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/__selection.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/__style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/demo-files/__demo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/demo-files/__demo.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/fonts/__icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/fonts/__icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/fonts/__icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/fonts/icomoon/icomoon/fonts/__icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__broken_noise.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__broken_noise_@2X.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_1.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_2.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_3.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_4.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_5.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_6.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_7.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_8.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__gallery_9.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__hero_1.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__img_1.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__img_sm_1.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__loader.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/images/__person_1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__jquery.easing.1.3.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__jquery.flexslider-min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__jquery.stellar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__jquery.waypoints.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__modernizr-2.6.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/js/__respond.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/___bootstrap-compass.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/___bootstrap-mincer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/___bootstrap-sprockets.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/__bootstrap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/__bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___alerts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___badges.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___breadcrumbs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___button-groups.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___carousel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___code.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___component-animations.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___dropdowns.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___glyphicons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___input-groups.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___jumbotron.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___labels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___media.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___modals.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___navs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___normalize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___pager.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___panels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___popovers.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___progress-bars.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___responsive-embed.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___responsive-utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___scaffolding.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___tables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___theme.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___thumbnails.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___wells.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/__mixins" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___alerts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___background-variant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___border-radius.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___center-block.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___gradients.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___grid-framework.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___hide-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___image.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___labels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___nav-divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___nav-vertical-align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___opacity.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___panels.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___progress-bar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___reset-filter.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___reset-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___resize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___responsive-visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___tab-focus.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___table-row.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___text-emphasis.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___text-overflow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___vendor-prefixes.scss" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,22 +349,22 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front-end/tasty-master/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1471">
-              <caret line="111" column="33" lean-forward="false" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+            <state relative-caret-position="376">
+              <caret line="122" column="40" lean-forward="false" selection-start-line="122" selection-start-column="40" selection-end-line="126" selection-end-column="46" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="musiclibrary.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="musiclibrary.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="86" column="16" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="28" />
+            <state relative-caret-position="514">
+              <caret line="230" column="50" lean-forward="true" selection-start-line="230" selection-start-column="50" selection-end-line="230" selection-end-column="50" />
               <folding>
-                <element signature="e#125#132#0" expanded="true" />
                 <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#10901#10907#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -46,8 +373,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="302" column="1" lean-forward="false" selection-start-line="302" selection-start-column="1" selection-end-line="302" selection-end-column="1" />
+            <state relative-caret-position="198">
+              <caret line="472" column="23" lean-forward="true" selection-start-line="472" selection-start-column="23" selection-end-line="472" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -56,18 +383,28 @@
       <file leaf-file-name="community.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front-end/tasty-master/community.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1814">
-              <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+            <state relative-caret-position="217">
+              <caret line="113" column="22" lean-forward="true" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="event.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/tasty-master/event.html">
+      <file leaf-file-name="musicinfo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/tasty-master/musicinfo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="229" column="24" lean-forward="false" selection-start-line="229" selection-start-column="24" selection-end-line="229" selection-end-column="62" />
+            <state relative-caret-position="173">
+              <caret line="126" column="12" lean-forward="false" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="1954" column="22" lean-forward="true" selection-start-line="1954" selection-start-column="22" selection-end-line="1954" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -76,37 +413,26 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front-end/tasty-master/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="125" column="73" lean-forward="false" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="73" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="musicinfo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/front-end/tasty-master/musicinfo.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="1339" column="0" lean-forward="true" selection-start-line="1339" selection-start-column="0" selection-end-line="1339" selection-end-column="0" />
+            <state relative-caret-position="492">
+              <caret line="139" column="24" lean-forward="true" selection-start-line="139" selection-start-column="24" selection-end-line="144" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>container</find>
+      <find>modal</find>
+      <find>index</find>
+      <find>form-group</find>
+      <find>id01</find>
+      <find>text</find>
+      <find>drop_zone</find>
+      <find>contai</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -115,15 +441,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/front-end/tasty-master/menu.html" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/home.html" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/about.html" />
         <option value="$PROJECT_DIR$/front-end/tasty-master/sass/style.scss" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/css/style.css" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/event.html" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/community.html" />
-        <option value="$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html" />
+        <option value="$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/front-end/tasty-master/musicinfo.html" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/css/animate.css" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/home.html" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/event.html" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/about.html" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/community.html" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/css/style.css" />
+        <option value="$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html" />
       </list>
     </option>
   </component>
@@ -152,8 +480,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,21 +498,13 @@
               <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
               <item name="McBand" type="462c0819:PsiDirectoryNode" />
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="Office-master" type="462c0819:PsiDirectoryNode" />
+              <item name="tasty-master" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
               <item name="McBand" type="462c0819:PsiDirectoryNode" />
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="Office-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
-              <item name="McBand" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="Office-master" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="tasty-master" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -192,20 +512,7 @@
               <item name="McBand" type="462c0819:PsiDirectoryNode" />
               <item name="front-end" type="462c0819:PsiDirectoryNode" />
               <item name="tasty-master" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
-              <item name="McBand" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="tasty-master" type="462c0819:PsiDirectoryNode" />
-              <item name="audios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="McBand" type="b2602c69:ProjectViewProjectNode" />
-              <item name="McBand" type="462c0819:PsiDirectoryNode" />
-              <item name="front-end" type="462c0819:PsiDirectoryNode" />
-              <item name="tasty-master" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,7 +526,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
-    <property name="SearchEverywhereHistoryKey" value="fh5co-header&#9;null&#9;null&#10;col-md-pull-0&#9;null&#9;null&#10;col-md-6&#9;null&#9;null&#10;col-md-pull-6&#9;null&#9;null&#10;col-sm-push-6&#9;null&#9;null&#10;middle&#9;null&#9;null&#10;midd;e&#9;null&#9;null&#10;submit&#9;null&#9;null&#10;btn-lg&#9;null&#9;null&#10;btn-outline&#9;null&#9;null&#10;btn&#9;null&#9;null&#10;btn-primary&#9;null&#9;null&#10;col-md-12&#9;null&#9;null&#10;fh5co-item&#9;null&#9;null&#10;img-responsive&#9;null&#9;null&#10;animate-box&#9;null&#9;null&#10;fh5co-cover&#9;null&#9;null&#10;fh5co-heading&#9;null&#9;null&#10;row&#9;null&#9;null&#10;col-md-&#9;null&#9;null&#10;fh5co-gallery_item&#9;null&#9;null&#10;h3&#9;null&#9;null&#10;fh5co-item-wrap&#9;null&#9;null&#10;col-sm-6&#9;null&#9;null&#10;form-control&#9;null&#9;null&#10;col-md-push-6&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="fh5co-heading&#9;null&#9;null&#10;form-wrap&#9;null&#9;null&#10;modal-content&#9;null&#9;null&#10;modal&#9;null&#9;null&#10;button&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/sass/bootstrap/mixins/_buttons.scss&#10;banner&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/login&amp;signup/images/banner.jpg&#10;fh5co-started&#9;null&#9;null&#10;tasty&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/tasty/__MACOSX/__tasty&#10;zoomout&#9;null&#9;null&#10;zoomin&#9;null&#9;null&#10;close&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/sass/bootstrap/_close.scss&#10;animate&#9;FILE&#9;file:///Users/whenryin/Documents/GitHub/McBand/front-end/tasty-master/css/animate.css&#10;form-group&#9;null&#9;null&#10;fh5co-header&#9;null&#9;null&#10;col-md-pull-0&#9;null&#9;null&#10;col-md-6&#9;null&#9;null&#10;col-md-pull-6&#9;null&#9;null&#10;col-sm-push-6&#9;null&#9;null&#10;middle&#9;null&#9;null&#10;midd;e&#9;null&#9;null&#10;submit&#9;null&#9;null&#10;btn-lg&#9;null&#9;null&#10;btn-outline&#9;null&#9;null&#10;btn&#9;null&#9;null&#10;btn-primary&#9;null&#9;null&#10;col-md-12&#9;null&#9;null&#10;fh5co-item&#9;null&#9;null&#10;img-responsive&#9;null&#9;null&#10;animate-box&#9;null&#9;null&#10;fh5co-cover&#9;null&#9;null&#10;row&#9;null&#9;null&#10;col-md-&#9;null&#9;null&#10;fh5co-gallery_item&#9;null&#9;null&#10;h3&#9;null&#9;null&#10;fh5co-item-wrap&#9;null&#9;null&#10;col-sm-6&#9;null&#9;null&#10;form-control&#9;null&#9;null&#10;col-md-push-6&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -269,12 +576,14 @@
       <workItem from="1521125612996" duration="279000" />
       <workItem from="1521126221264" duration="112000" />
       <workItem from="1521126348830" duration="909000" />
-      <workItem from="1521203166007" duration="7582000" />
+      <workItem from="1521203166007" duration="7675000" />
+      <workItem from="1521278072951" duration="6307000" />
+      <workItem from="1521359303732" duration="10158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32182000" />
+    <option name="totallyTimeSpent" value="48740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -284,6 +593,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -295,7 +605,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -329,60 +638,196 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/about.html">
+    <entry file="file://$PROJECT_DIR$/front-end/Office-master/js/jquery-1.10.2.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="46" lean-forward="false" selection-start-line="89" selection-start-column="46" selection-end-line="89" selection-end-column="46" />
+        <state relative-caret-position="57">
+          <caret line="6" column="16489" lean-forward="false" selection-start-line="6" selection-start-column="16489" selection-end-line="6" selection-end-column="16489" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/event.html">
+    <entry file="file://$PROJECT_DIR$/front-end/login&amp;signup/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="77" column="31" lean-forward="false" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="6" column="13835" lean-forward="false" selection-start-line="6" selection-start-column="13835" selection-end-line="6" selection-end-column="13835" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="512" column="24" lean-forward="true" selection-start-line="512" selection-start-column="24" selection-end-line="512" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="1741" column="1" lean-forward="false" selection-start-line="1741" selection-start-column="1" selection-end-line="1741" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/js/zoomerang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/___close.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_close.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6044">
+          <caret line="5" column="52579" lean-forward="false" selection-start-line="5" selection-start-column="52579" selection-end-line="5" selection-end-column="52579" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57477">
+          <caret line="2737" column="0" lean-forward="false" selection-start-line="2737" selection-start-column="0" selection-end-line="2737" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1806">
+          <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/__tasty">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/tasty-master/_gitattributes">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/README.txt">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/reservation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2436">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/__index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/broken_noise.png">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/css/__bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-compass.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-mincer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/_bootstrap-sprockets.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/broken_noise_@2X.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/gallery_1.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -427,252 +872,130 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/hero_1.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/img_1.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/loader.gif">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/img_sm_1.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/person_1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/19.jpg">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/fonts/bootstrap/glyphicons-halflings-regular.svg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="972">
-          <caret line="117" column="86" lean-forward="false" selection-start-line="117" selection-start-column="86" selection-end-line="117" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-424">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-549">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/flexslider.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/bootstrap-datetimepicker.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/fonts/icomoon/icomoon/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="1661" column="1" lean-forward="false" selection-start-line="1661" selection-start-column="1" selection-end-line="1661" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_type.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/icomoon.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="1049" column="1" lean-forward="false" selection-start-line="1049" selection-start-column="1" selection-end-line="1049" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="57" column="1" lean-forward="false" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/tasty/__MACOSX/tasty/sass/bootstrap/mixins/___table-row.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="151" lean-forward="true" selection-start-line="0" selection-start-column="151" selection-end-line="0" selection-end-column="151" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="600" column="12" lean-forward="false" selection-start-line="600" selection-start-column="12" selection-end-line="600" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/gallery_1.jpeg">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/images/broken_noise.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="1718" column="47" lean-forward="true" selection-start-line="1718" selection-start-column="47" selection-end-line="1718" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_scaffolding.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="80" column="1" lean-forward="false" selection-start-line="80" selection-start-column="1" selection-end-line="80" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/js/jquery-1.10.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="16489" lean-forward="false" selection-start-line="6" selection-start-column="16489" selection-end-line="6" selection-end-column="16489" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/login&amp;signup/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="125" column="73" lean-forward="false" selection-start-line="125" selection-start-column="60" selection-end-line="125" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="86" column="31" lean-forward="true" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="6" column="13835" lean-forward="false" selection-start-line="6" selection-start-column="13835" selection-end-line="6" selection-end-column="13835" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/Office-master/assets/bootstrap/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="1132" column="3" lean-forward="false" selection-start-line="1132" selection-start-column="3" selection-end-line="1132" selection-end-column="3" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/tasty-master/event.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="229" column="24" lean-forward="false" selection-start-line="229" selection-start-column="24" selection-end-line="229" selection-end-column="62" />
+        <state relative-caret-position="501">
+          <caret line="69" column="63" lean-forward="false" selection-start-line="69" selection-start-column="63" selection-end-line="69" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/community.html">
+    <entry file="file://$PROJECT_DIR$/front-end/login&amp;signup/images/banner.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/login&amp;signup/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1814">
-          <caret line="17" column="40" lean-forward="false" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="313">
+          <caret line="1" column="17308" lean-forward="false" selection-start-line="1" selection-start-column="17308" selection-end-line="1" selection-end-column="17308" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_button-groups.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="1339" column="0" lean-forward="true" selection-start-line="1339" selection-start-column="0" selection-end-line="1339" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/style.css">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="302" column="1" lean-forward="false" selection-start-line="302" selection-start-column="1" selection-end-line="302" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/mixins/_buttons.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="86" column="16" lean-forward="false" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="28" />
-          <folding>
-            <element signature="e#125#132#0" expanded="true" />
-            <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#10901#10907#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/home.html">
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/sass/bootstrap/_modals.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1471">
-          <caret line="111" column="33" lean-forward="false" selection-start-line="111" selection-start-column="33" selection-end-line="111" selection-end-column="33" />
+        <state relative-caret-position="285">
+          <caret line="49" column="15" lean-forward="true" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front-end/tasty-master/musicinfo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="173">
+          <caret line="126" column="12" lean-forward="false" selection-start-line="126" selection-start-column="12" selection-end-line="126" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/community.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="113" column="22" lean-forward="true" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="122" column="40" lean-forward="false" selection-start-line="122" selection-start-column="40" selection-end-line="126" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="139" column="24" lean-forward="true" selection-start-line="139" selection-start-column="24" selection-end-line="144" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="472" column="23" lean-forward="true" selection-start-line="472" selection-start-column="23" selection-end-line="472" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="1954" column="22" lean-forward="true" selection-start-line="1954" selection-start-column="22" selection-end-line="1954" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front-end/tasty-master/musiclibrary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="230" column="50" lean-forward="true" selection-start-line="230" selection-start-column="50" selection-end-line="230" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#header#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#form#0;n#div#0;n#div#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
