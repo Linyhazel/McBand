@@ -57,6 +57,15 @@
 	<![endif]-->
 
 	</head>
+
+
+
+
+
+
+
+
+
 	<body>
 		
 	<div class="fh5co-loader"></div>
@@ -67,7 +76,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12 text-center logo-wrap">
-						<div id="fh5co-logo"><a href="home.html">McBand<span>.</span></a></div>
+						<div id="fh5co-logo"><a href="index.html">McBand<span>.</span></a></div>
 					</div>
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul>
@@ -76,143 +85,176 @@
 							<li><a href="community.html">Community</a></li>
 							<li class="active"><a href="event.html">Event</a></li>
 							<li><a href="about.html">About</a></li>
+							<!--<button href="signuporlogin.html" class=" btn btn-primary btn-outline ml-2 my-sm-0" style="float: right" type="submit"><a>login/signup</a></button>-->
+							<a href="sign.html" class="button" style="float:right"><i class="icon-user3">login</i></a>
 						</ul>
+
 					</div>
+
 				</div>
 				
 			</div>
 		<!-- </div> -->
 	</nav>
 
-	<header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+	<div id="fh5co-started" class="fh5co-section" style="background-image: url(images/note.jpg);" data-stellar-background-ratio="0.5">
 		<div class="overlay"></div>
 		<div class="container">
-			<div class="row">
-				<div class="col-md-12 text-center">
-					<div class="display-t js-fullheight">
-						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
-							<h1><em>Look</em> for some Events</h1>
-						</div>
-					</div>
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 fh5co-heading">
 				</div>
 			</div>
 		</div>
-	</header>
+	</div>
+
+
+
+
+
+
 
 	<div id="fh5co-about" class="fh5co-section">
-		<div class="container">
+		<!--<div class="container">-->
 			<div class="row">
-				<div class="col-md-6 col-md-pull-4 img-wrap animate-box" data-animate-effect="fadeInLeft">
-					<img src="images/hero_1.jpeg" alt="Free Restaurant Bootstrap Website Template by FreeHTML5.co">
+				<div class="animate-box" data-animate-effect="fadeInLeft" style="width:60%;height:600px;">
+					<div id="googleMap" style="width:60%;height:600px;"></div>
+
+					<script>
+					function myMap() {
+ 					 //map options
+  					var mapOptions = {
+  					  center: new google.maps.LatLng(22.38333,114.18333),
+ 					   zoom:15,
+ 					 };
+
+ 					 //new map
+ 					 var map = new google.maps.Map(document.getElementById("googleMap"),mapOptions);
+
+  					//add marker
+  					var marker = new google.maps.Marker({
+  						position:{lat:22.38333,lng:114.18333},
+  						map:map
+  						//icon:'a link here'    to change the marker
+ 					 });
+					}
+					</script>
+					<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEuDeEqud2hsG_zVQMqPwKYE2FifHFICo&callback=myMap"></script>	
 				</div>
-				<div class="col-md-5 col-md-push-1 animate-box">
+
+
+				<div class="col-md-3 col-md-push-0 animate-box">
 					<div class="section-heading">
-						<h2>The Restaurant</h2>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae neque quisquam at deserunt ab praesentium architecto tempore saepe animi voluptatem molestias, eveniet aut laudantium alias, laboriosam excepturi, et numquam? Atque tempore iure tenetur perspiciatis, aliquam, asperiores aut odio accusamus, unde libero dignissimos quod aliquid neque et illo vero nesciunt. Sunt!</p>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam iure reprehenderit nihil nobis laboriosam beatae assumenda tempore, magni ducimus abentey.</p>
-						<p><a href="#" class="btn btn-primary btn-outline">Our History</a></p>
+
+
+						<div id="fh5co-timeline" class="col-sm-1">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-offset-0">
+										<ul class="timeline animate-box">
+
+											<li class="timeline-heading text-center animate-box">
+												<div><h3>Recent event</h3></div>
+											</li>
+
+
+											<li class="animate-box timeline-unverted">
+												<div class="timeline-badge"><i class="icon-genius"></i></div>
+												<div class="timeline-panel">
+													<div class="timeline-heading">
+														<h3 class="timeline-title">Music Party</h3>
+								
+													</div>
+													<div class="timeline-body">
+														<p>7th April 2018 15:00 - 24:00 Shatin.</p>
+													</div>
+												</div>
+											</li>
+
+
+											<li class="timeline-inverted animate-box">
+												<div class="timeline-badge"><i class="icon-genius"></i></div>
+												<div class="timeline-panel">
+													<div class="timeline-heading">
+														<h3 class="timeline-title">Jazz Marathon</h3>
+													</div>
+													<div class="timeline-body">
+														<p>1st May 2018 - 3rd May 2018. Causeway bay.</p>
+													</div>
+												</div>
+											</li>
+
+
+											<li class="animate-box timeline-unverted">
+												<div class="timeline-badge"><i class="icon-genius"></i></div>
+												<div class="timeline-panel">
+													<div class="timeline-heading">
+														<h3 class="timeline-title">Let's Rock'N Roll</h3>
+													</div>
+													<div class="timeline-body">
+														<p>2nd May 2018 19:00 - 24:00. Lan Kwai Fong.</p>
+													</div>
+												</div>
+											</li>
+
+
+											<br>
+											<li class="timeline-heading text-center animate-box">
+												<div><h3>More to come</h3></div>
+											</li>
+
+
+											<li class="timeline-inverted animate-box">
+												<div class="timeline-badge"><i class="icon-genius"></i></div>
+												<div class="timeline-panel">
+													<div class="timeline-heading">
+														<h3 class="timeline-title">Hey Summer! Pop Concert!</h3>
+													</div>
+													<div class="timeline-body">
+														<p>20th May 2018 20:00 - 24:00. Shatin NewTown Plaza.</p>
+													</div>
+												</div>
+											</li>
+
+
+											<li class="animate-box timeline-unverted">
+												<div class="timeline-badge"><i class="icon-genius"></i></div>
+												<div class="timeline-panel">
+													<div class="timeline-heading">
+														<h3 class="timeline-title">The Witness Tour</h3>
+													</div>
+													<div class="timeline-body">
+														<p>31th May 20:00 - 22:00. Hung Hom</p>
+													</div>
+												</div>
+											</li>
+
+
+											<li class="timeline-inverted animate-box">
+												<div class="timeline-badge"><i class="icon-genius"></i></div>
+												<div class="timeline-panel">
+													<div class="timeline-heading">
+														<h3 class="timeline-title">Beach Concert</h3>
+													</div>
+													<div class="timeline-body">
+														<p>22th June 15:00 - 24:00. Stanley Beach.</p>
+													</div>
+												</div>
+											</li>
+
+
+			    						</ul>
+									</div>
+								</div>
+							</div>
+						</div>
+
+
 					</div>
 				</div>
 			</div>
-		</div>
+		<!--</div>-->
 	</div>
 
-	<div id="fh5co-timeline">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-md-offset-0">
-					<ul class="timeline animate-box">
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>Our Experience</h3></div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">The Founders Meet</h3>
-								
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Create A Restaurant</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Added 200+ Employees</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-								</div>
-							</div>
-						</li>
-
-						<br>
-						<li class="timeline-heading text-center animate-box">
-							<div><h3>More Restaurants Outlet</h3></div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Stablished Restaurant in Europe</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Franchise Restaurants Brooklyn</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-								</div>
-							</div>
-						</li>
-						<li class="timeline-inverted animate-box">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Added 100K More Employees</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-								</div>
-							</div>
-						</li>
-						<li class="animate-box timeline-unverted">
-							<div class="timeline-badge"><i class="icon-genius"></i></div>
-							<div class="timeline-panel">
-								<div class="timeline-heading">
-									<h3 class="timeline-title">Stablished Marketing</h3>
-								</div>
-								<div class="timeline-body">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-								</div>
-							</div>
-						</li>
-			    	</ul>
-				</div>
-			</div>
-		</div>
-	</div>
 
 	<div id="fh5co-featured-testimony" class="fh5co-section">
 		<div class="container">
@@ -240,61 +282,22 @@
 	</div>
 
 
-		<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
-			<div class="overlay"></div>
-			<div class="container">
-				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
-						<h2>Join McBand</h2>
-						<p>Create an account to upload, comment, make friends or sign up for an event!</p>
-						<p><a href="#" class="btn btn-primary btn-outline">Register Now</a></p>
-					</div>
+	<div id="fh5co-started" class="fh5co-section animate-box" style="background-image: url(images/hero_1.jpeg);" data-stellar-background-ratio="0.5">
+		<div class="overlay"></div>
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 fh5co-heading">
 				</div>
 			</div>
 		</div>
+	</div>
 
-	<footer id="fh5co-footer" role="contentinfo" class="fh5co-section">
-		<div class="container">
-			<div class="row row-pb-md">
-				<div class="col-md-4 fh5co-widget">
-					<h4>McBand</h4>
-					<p>Share sheet musics, start a band, or join in an event.</p>
-				</div>
-				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Links</h4>
-					<ul class="fh5co-footer-links">
-						<li><a href="home.html">Home</a></li>
-						<li><a href="musiclibrary.html">Music</a></li>
-						<li><a href="community.html">Community</a></li>
-						<li><a href="event.html">Event</a></li>
-						<li><a href="about.html">About</a></li>
-					</ul>
-				</div>
 
-				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Account</h4>
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Sign Up</a></li>
-						<li><a href="#">Sign In</a></li>
-						<li><a href="#">Manage</a></li>
-					</ul>
-				</div>
-
-				<div class="col-md-4 col-md-push-1 fh5co-widget">
-					<h4>Contact Information</h4>
-					<ul class="fh5co-footer-links">
-						<li>Group 16, CSCI3100 <br> Departmemnt of Computer Science and Engineering <br> The Chinese University of Hong Kong</li>
-						<li><a href="mailto:info@mcband.com">info@mcband.com</a></li>
-					</ul>
-				</div>
-
-			</div>
-
-			<div class="row copyright">
 				<div class="col-md-12 text-center">
 					<p>
-						<small class="block">&copy; 2016 Free HTML5. All Rights Reserved.</small> 
-						<small class="block">Designed by <a href="http://freehtml5.co/" target="_blank">FreeHTML5.co</a> Demo Images: <a href="http://unsplash.co/" target="_blank">Unsplash</a></small>
+						<small class="block"><a>McBand<span>.</span></a> Project for CSCI 3100 <a>Group 16</a></small> 
+						<br>
+						<small class="block">We Build The <a>Greatest</a> Music Cmmunity<a></a></small>
 					</p>
 					<p>
 						<ul class="fh5co-social-icons">
@@ -305,15 +308,8 @@
 						</ul>
 					</p>
 				</div>
-			</div>
 
-		</div>
-	</footer>
-	</div>
-
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
-	</div>
+	
 	
 	<!-- jQuery -->
 	<script src="js/jquery.min.js"></script>
